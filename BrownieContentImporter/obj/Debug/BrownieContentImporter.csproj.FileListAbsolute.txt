@@ -1,0 +1,6 @@
+C:\Users\hamza\Own Games\Custom\C#\Custom Libaries\DLLs\BrownieContentImporter.pdb
+C:\Users\hamza\Own Games\Custom\C#\Custom Libaries\BrownieContentImporter\BrownieContentImporter\obj\Debug\BrownieContentImporter.csproj.CoreCompileInputs.cache
+C:\Users\hamza\Own Games\Custom\C#\Custom Libaries\BrownieContentImporter\BrownieContentImporter\obj\Debug\BrownieContentImporter.csproj.CopyComplete
+C:\Users\hamza\Own Games\Custom\C#\Custom Libaries\BrownieContentImporter\BrownieContentImporter\obj\Debug\BrownieContentImporter.dll
+C:\Users\hamza\Own Games\Custom\C#\Custom Libaries\BrownieContentImporter\BrownieContentImporter\obj\Debug\BrownieContentImporter.pdb
+C:\Users\hamza\Own Games\Custom\C#\Custom Libaries\BrownieContentImporter\BrownieContentImporter\obj\Debug\BrownieContentImporter.csprojAssemblyReference.cache
